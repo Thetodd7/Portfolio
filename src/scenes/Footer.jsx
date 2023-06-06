@@ -10,7 +10,7 @@ const Footer = () => {
             Todd Granados
           </p>
           <p className="font-playfair text-md text-white">
-            ©2022 T.G All Rights Reserved.
+            ©2023 T.G All Rights Reserved.
           </p>
         </div>
       </div>
