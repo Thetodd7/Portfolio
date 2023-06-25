@@ -80,31 +80,37 @@ const Projects = () => {
           </div>
           <Project
             title="Project 1"
-            subtitle="Mazda-Profile"
+            subtitle="Mazda AutoConnect"
             link="https://mazda-profile-n6aj9sc99-thetodd7.vercel.app"
           />
           <Project
             title="Project 2"
-            subtitle="Fitness Tracker"
-            link="https://fitness-tracker-heroku.herokuapp.com"
+            subtitle="SuddenFitness"
+            link="https://41dc5ed7.suddenfitness.pages.dev/"
           />
 
           {/* ROW 2 */}
           <Project
             title="Project 3"
-            subtitle="Budget Tracker"
-            link="https://progressive-budget.herokuapp.com/	"
+            subtitle="VibeWire"
+            link="https://vibewire-frontend.onrender.com"
           />
           <Project
             title="Project 4"
             subtitle="TastyBytes"
             link="https://julioplaceres.github.io/TastyBytes/index.html"
           />
-          <Project title="Project 5" subtitle="NoteTaker" link="" />
+          <Project title="Project 5" 
+          subtitle="Admin Dashboard" 
+          link="https://dashboard-frontend-8l2u.onrender.com" />
 
           {/* ROW 3 */}
-          <Project title="Project 6" subtitle="" link="" />
-          <Project title="Project 7" subtitle="Mazda-Dashboard" link="" />
+          <Project title="Project 6"
+          subtitle="Fitness Tracker" 
+          link="https://fitness-tracker-heroku.herokuapp.com/ " />
+          <Project title="Project 7" 
+          subtitle="Budget Tracker " 
+          link="https://progressive-budget.herokuapp.com/" />
           <div
             className="flex justify-center text-center items-center p-10 bg-blue
               max-w-[400px] max-h-[400px] text-2xl font-playfair font-semibold"
